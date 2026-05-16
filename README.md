@@ -1,138 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rachit%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20PM%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Product%20%26%20Business%20Analysis&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6d28d9,4f46e5,7c3aed&height=240&section=header&text=WHY%20RACHIT%3F&fontSize=80&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=the+answer+is+right+here.&descSize=18&descAlignY=68&descColor=c4b5fd" width="100%"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/whyrachit-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyrachit/)
-[![Portfolio](https://img.shields.io/badge/portfolio-whyrachit.vercel.app-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://whyrachit.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=whyrachit&style=flat-square&color=8b5cf6&label=visitors)](https://github.com/whyrachit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%22well+because+'whynotrachit'+sounded+too+desperate.%22;curiosity+%2B+creativity+%2B+the+drive+to+build+smarter+solutions.;AI+PM+%E2%80%A2+Agentic+Systems+%E2%80%A2+Product+%26+Business+Analysis)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-whyrachit-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyrachit/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-whyrachit.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://whyrachit.vercel.app)&nbsp;
+[![Email](https://img.shields.io/badge/Email-rachityadav.ml%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rachityadav.ml@gmail.com)&nbsp;
+[![Visitors](https://komarev.com/ghpvc/?username=whyrachit&style=flat-square&color=7c3aed&label=profile+views)](https://github.com/whyrachit)
 
 </div>
 
 ---
 
-## what i do
-
-AI Product Manager and Business Analyst — I scope, spec, and ship AI-native products. I write PRDs for ML systems, design multi-agent workflows, and translate messy business problems into things that can actually be built and measured.
-
-On the technical side: I build agentic pipelines, orchestrate LLM workflows, and maintain 50+ production-grade prompts across real automation use cases — documentation, data auditing, Excel pipelines.
-
----
-
-## stack
-
-**product & analysis**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**data & scripting**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**LLM & agentic**
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6d28d9?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**agentic coding**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## shipped
-
-### 🎵 SargamAI — [GitHub](https://github.com/whyrachit/SargamAI) · [LinkedIn](https://www.linkedin.com/posts/whyrachit_aiagents-spotify-playlist-ugcPost-7303371882970456065-LBfT)
-
-> mood-aware AI playlist generator for multilingual listeners
-
-- **Problem:** Spotify's recommendation graph is English-first. Multilingual users get generic results.
-- **Build:** mood input → live Spotify API query → custom ranking layer → ranked playlist output
-- **Prompt layer:** 50+ prompt variants iterated to handle language, mood, and genre variance across 5+ languages
-- **Outcome:** 30 active users · 200+ playlists generated · ~35% higher satisfaction vs static baselines
-
-`Python` `Spotify API` `Prompt Engineering` `LLM Orchestration` `Ranking Logic`
-
----
-
-### 🍹 tanhAI — [GitHub](https://github.com/whyrachit/tanhAI) · [LinkedIn](https://www.linkedin.com/posts/whyrachit_tanhai-swiggy-sarvamai-ugcPost-7459939151652630528-TMZe)
-
-> conversational mixology agent — discover, pair, and order in one session
-
-- **Problem:** Getting a drink delivered requires 3 apps, 3 context switches, 3 drop-off points.
-- **Architecture:** single conversational flow with multi-step tool calling via Agno · intent-aware routing across APIs
-- **Models:** Sarvam AI 105B for Indian language NLU · Swiggy MCP for real-time inventory + order handoff
-- **Outcome:** ~65% reduction in time-to-order · 15+ test sessions · zero handoff failures
-
-`Agno` `Sarvam AI 105B` `Swiggy MCP` `LangGraph` `Multi-Agent` `Tool Calling` `FastAPI`
-
----
-
-## how I think about AI systems
-
 ```
-given a new AI feature request:
+// THE ORIGIN STORY
 
-  ├── is this actually an AI problem?
-  │     └── no → solve it simply, ship faster
-  │     └── yes ↓
-  ├── what data exists / needs to exist?
-  │     └── not enough → design collection first, build later
-  │     └── enough ↓
-  ├── define eval criteria before writing a single prompt
-  │     └── what does good output look like? bad output?
-  │     └── what's the acceptable failure rate?
-  └── instrument everything → measure → iterate
+The name comes from the real question people ask: "Why Rachit?"
+Why hire me, collaborate with me, trust me?
+
+The answer is literally right here — across every project, every repo,
+every workflow I've built. That's why the portfolio, LinkedIn, and GitHub
+all live under one name: whyrachit.
+
+I sit at the intersection of data, technology, and business —
+translating raw information into decisions, models, and solutions
+that drive measurable impact.
 ```
 
 ---
 
-## agentic workflow experience
+## ⚙️ STACK
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🧠 AI & Agentic**
+
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI_105B-FF4F00?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6d28d9?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**💻 Data & Dev**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🛠️ Agentic Coding**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**📦 Product**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 SHIPPED
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 SargamAI
+**AI Playlist Generator**&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/whyrachit/SargamAI)&nbsp;[![Post](https://img.shields.io/badge/Post-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/whyrachit_aiagents-spotify-playlist-ugcPost-7303371882970456065-LBfT)
+
+Spotify's graph is English-first. Multilingual listeners get generic results. Built a mood-aware playlist engine with live Spotify API, custom ranking layer, and 50+ prompt variants across 5+ languages.
+
+```
+mood input
+→ live Spotify query generation
+→ custom ranking layer
+→ ranked playlist output
+```
+
+`30 users` · `200+ playlists` · `~35% ↑ satisfaction`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍹 tanhAI
+**Conversational Mixology Agent**&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/whyrachit/tanhAI)&nbsp;[![Post](https://img.shields.io/badge/Post-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/whyrachit_tanhai-swiggy-sarvamai-ugcPost-7459939151652630528-TMZe)
+
+3-app switching problem (discover → check stock → order) collapsed into one session. Sarvam AI 105B for Indian language NLU, Swiggy MCP for live inventory and order handoff.
+
+```
+mood input
+→ Sarvam AI 105B NLU
+→ Swiggy MCP (inventory + order)
+→ checkout handoff
+```
+
+`~65% ↓ time-to-order` · `15+ sessions` · `0 handoff failures`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AGENTIC WORKFLOW SYSTEMS
 
 ```python
-# what i've built and maintained in production:
+# what i've built and shipped in production
 
-workflows = {
-    "documentation_automation": ["Claude Code", "Google Antigravity", "structured prompts"],
-    "excel_data_entry_pipelines": ["Python", "OpenPyXL", "LLM extraction", "validation layer"],
-    "audit_automation":          ["multi-step agents", "diff detection", "anomaly flagging"],
-    "multi_agent_orchestration": ["Agno", "AutoGen", "LangGraph", "intent routing"],
-    "mcp_integrations":          ["Swiggy MCP", "Autodesk MCP", "WhatsApp API"],
+production_workflows = {
+    "documentation_automation"  : ["Claude Code", "Google Antigravity", "structured prompt chains"],
+    "excel_data_entry_pipelines": ["Python + OpenPyXL", "LLM extraction", "validation layer"],
+    "audit_automation"          : ["multi-step agents", "diff detection", "anomaly flagging"],
+    "multi_agent_orchestration" : ["Agno", "AutoGen", "LangGraph", "intent-based routing"],
+    "mcp_integrations"          : ["Swiggy MCP", "Autodesk MCP", "WhatsApp Business API"],
 }
 
-prompt_library_size = "50+ reusable, versioned prompts"
-models_used = ["Claude", "GPT-4o", "Gemini", "Sarvam AI 105B"]
+prompt_library  = "50+ reusable, versioned prompts across real production use cases"
+models_in_use   = ["Claude 3.5/4", "GPT-4o", "Gemini 2.0", "Sarvam AI 105B"]
+agentic_editors = ["Claude Code", "Claude Desktop", "Google Antigravity"]
+```
+
+---
+
+## 🧩 HOW I SCOPE AI FEATURES
+
+```
+// the question i ask before every AI feature
+
+REQUEST
+  │
+  ├─ Is this actually an AI problem?
+  │       └─ no  → solve simply. ship faster.
+  │       └─ yes ↓
+  │
+  ├─ What does good output look like — exactly?
+  │       └─ define eval criteria before touching a prompt
+  │
+  ├─ What's the acceptable failure mode?
+  │       └─ instrument for it before it ships
+  │
+  └─ Build · Instrument · Measure · Iterate
+
+// most AI products fail not because the model is bad
+// but because success was never defined before building started
 ```
 
 ---
 
 <div align="center">
 
-*building at the intersection of AI systems and product thinking*
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-**[whyrachit →](https://www.linkedin.com/in/whyrachit/)**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,4f46e5&height=120&section=footer" width="100%"/>
+
+**`// WHY RACHIT? → the answer is right here.`**
+
+[whyrachit.vercel.app](https://whyrachit.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/whyrachit/) &nbsp;·&nbsp; [rachityadav.ml@gmail.com](mailto:rachityadav.ml@gmail.com)
 
 </div>
