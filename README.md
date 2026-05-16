@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rachit%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Manager%20%C2%B7%20Builder%20%C2%B7%20Analyst&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Rachit%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20PM%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Product%20%26%20Business%20Analysis&descAlignY=58&descColor=a78bfa" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-*I don't build models. I build the thing that decides whether a model should exist.*
 
 [![LinkedIn](https://img.shields.io/badge/whyrachit-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyrachit/)
 [![Portfolio](https://img.shields.io/badge/portfolio-whyrachit.vercel.app-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://whyrachit.vercel.app)
@@ -18,144 +16,122 @@
 
 ---
 
-## the story so far
+## what i do
 
-statistics degree. machine learning obsession. landed in product.
+AI Product Manager and Business Analyst — I scope, spec, and ship AI-native products. I write PRDs for ML systems, design multi-agent workflows, and translate messy business problems into things that can actually be built and measured.
 
-turns out the most valuable thing a person with a stats brain can do in an AI-first world isn't train models — it's ask *"should we build this at all?"* and then figure out *"how do we know if it worked?"*
-
-that's the gap i sit in. the space between **what engineers can build** and **what users actually need** — where product thinking lives, where most AI projects quietly fail, and where i've found my edge.
-
-i think in systems. i write in plain english. i prototype in python when i need to prove a point.
+On the technical side: I build agentic pipelines, orchestrate LLM workflows, and maintain 50+ production-grade prompts across real automation use cases — documentation, data auditing, Excel pipelines.
 
 ---
 
-## what i'm good at
+## stack
 
-```
-the PM layer                    the analyst layer
-────────────────                ──────────────────────
-scoping AI use cases            SQL that finds the real story
-writing PRDs for ML products    dashboards that drive decisions
-roadmapping with uncertainty    process gaps → structured fixes
-0→1 product thinking            user research → feature clarity
-GTM for technical products      stakeholder chaos → alignment
-```
-
----
-
-## the tech i actually use
-
-**thinking tools**
+**product & analysis**
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**data + analysis**
+**data & scripting**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**ai & agentic stack**
+**LLM & agentic**
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6d28d9?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **agentic coding**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## things i've shipped
+## shipped
 
-### 🎵 SargamAI — [GitHub](https://github.com/whyrachit/SargamAI) · [Post](https://www.linkedin.com/posts/whyrachit_aiagents-spotify-playlist-ugcPost-7303371882970456065-LBfT)
+### 🎵 SargamAI — [GitHub](https://github.com/whyrachit/SargamAI) · [LinkedIn](https://www.linkedin.com/posts/whyrachit_aiagents-spotify-playlist-ugcPost-7303371882970456065-LBfT)
 
-> *a mood-aware playlist generator for people who don't think in english*
+> mood-aware AI playlist generator for multilingual listeners
 
-multilingual music discovery is a genuinely unsolved problem. spotify's recommendation graph is english-first. i built a mood-input → live spotify query → ranked output pipeline that works across 5+ languages. iterated through 50+ prompt variants. 30 users, 200+ playlists generated. small, but real.
+- **Problem:** Spotify's recommendation graph is English-first. Multilingual users get generic results.
+- **Build:** mood input → live Spotify API query → custom ranking layer → ranked playlist output
+- **Prompt layer:** 50+ prompt variants iterated to handle language, mood, and genre variance across 5+ languages
+- **Outcome:** 30 active users · 200+ playlists generated · ~35% higher satisfaction vs static baselines
 
-`Spotify API` `Prompt Orchestration` `LLM` `Product Design` `Python`
-
----
-
-### 🍹 tanhAI — [GitHub](https://github.com/whyrachit/tanhAI) · [Post](https://www.linkedin.com/posts/whyrachit_tanhai-swiggy-sarvamai-ugcPost-7459939151652630528-TMZe)
-
-> *a conversational mixology agent that collapses 3 apps into 1 conversation*
-
-the insight: getting a drink delivered in india requires switching between a discovery app, a stock checker, and a delivery app. that's 3 context switches, 3 decision points, 3 moments to drop off. tanhAI collapses it — mood in, order out, one conversation. powered by **Sarvam AI's 105B parameter model** for indian language understanding and **Swiggy MCP** for real-time inventory and ordering. validated across 15+ test sessions, zero handoff failures.
-
-`Agno` `Sarvam AI` `Swiggy MCP` `LangGraph` `Multi-Agent` `Tool Calling`
+`Python` `Spotify API` `Prompt Engineering` `LLM Orchestration` `Ranking Logic`
 
 ---
 
-## how i think about AI products
+### 🍹 tanhAI — [GitHub](https://github.com/whyrachit/tanhAI) · [LinkedIn](https://www.linkedin.com/posts/whyrachit_tanhai-swiggy-sarvamai-ugcPost-7459939151652630528-TMZe)
 
-most AI products fail in the last mile — not because the model is bad, but because nobody defined what *good* looks like before building it.
+> conversational mixology agent — discover, pair, and order in one session
 
-my mental model, simplified:
+- **Problem:** Getting a drink delivered requires 3 apps, 3 context switches, 3 drop-off points.
+- **Architecture:** single conversational flow with multi-step tool calling via Agno · intent-aware routing across APIs
+- **Models:** Sarvam AI 105B for Indian language NLU · Swiggy MCP for real-time inventory + order handoff
+- **Outcome:** ~65% reduction in time-to-order · 15+ test sessions · zero handoff failures
+
+`Agno` `Sarvam AI 105B` `Swiggy MCP` `LangGraph` `Multi-Agent` `Tool Calling` `FastAPI`
+
+---
+
+## how I think about AI systems
 
 ```
-before touching a single model weight, answer these:
+given a new AI feature request:
 
-  1. what does the user actually want to happen?
-  2. what does success look like — in numbers?
-  3. what's the failure mode we're most afraid of?
-  4. is AI even the right tool here, or are we just excited?
-
-if you can't answer all four, the roadmap isn't ready.
+  ├── is this actually an AI problem?
+  │     └── no → solve it simply, ship faster
+  │     └── yes ↓
+  ├── what data exists / needs to exist?
+  │     └── not enough → design collection first, build later
+  │     └── enough ↓
+  ├── define eval criteria before writing a single prompt
+  │     └── what does good output look like? bad output?
+  │     └── what's the acceptable failure rate?
+  └── instrument everything → measure → iterate
 ```
 
-this sounds obvious. it almost never happens.
-
 ---
 
-## a few things i've figured out
+## agentic workflow experience
 
-- **prompt engineering is product design** — the interface is language, the UX is the output quality, the iteration cycle is the same
-- **agent frameworks are just orchestration** — langchain, langraph, agno — they're plumbing. the interesting part is the routing logic and the fallback behaviour
-- **the best PRD for an ML feature is a test suite** — if you can't describe edge cases before building, you don't understand the problem yet
-- **50+ reusable AI prompts** built and maintained for real workflows — documentation, data auditing, analysis — because good prompts are institutional knowledge
+```python
+# what i've built and maintained in production:
 
----
+workflows = {
+    "documentation_automation": ["Claude Code", "Google Antigravity", "structured prompts"],
+    "excel_data_entry_pipelines": ["Python", "OpenPyXL", "LLM extraction", "validation layer"],
+    "audit_automation":          ["multi-step agents", "diff detection", "anomaly flagging"],
+    "multi_agent_orchestration": ["Agno", "AutoGen", "LangGraph", "intent routing"],
+    "mcp_integrations":          ["Swiggy MCP", "Autodesk MCP", "WhatsApp API"],
+}
 
-## stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=whyrachit&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyrachit&theme=midnight-purple&hide_border=true&layout=compact" />
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whyrachit&theme=midnight-purple&hide_border=true)
-
-</div>
-
----
-
-## background, briefly
-
-**B.Sc. Statistics (Hons.)** — St. Xavier's College, Kolkata *(minor: math + CS)*
-
-**ML Lead** — Google Developer Student Clubs · ran 3 hackathons, 2 seminars, workshops for 200+ members
+prompt_library_size = "50+ reusable, versioned prompts"
+models_used = ["Claude", "GPT-4o", "Gemini", "Sarvam AI 105B"]
+```
 
 ---
 
 <div align="center">
 
-*building things that matter at the intersection of AI, data, and product*
+*building at the intersection of AI systems and product thinking*
 
-**[say hello →](https://www.linkedin.com/in/whyrachit/)**
+**[whyrachit →](https://www.linkedin.com/in/whyrachit/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
