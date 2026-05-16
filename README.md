@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6d28d9,4f46e5,7c3aed&height=240&section=header&text=WHY%20RACHIT%3F&fontSize=80&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=the+answer+is+right+here.&descSize=18&descAlignY=68&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1e1b4b,30:4c1d95,60:6d28d9,100:7c3aed&height=280&section=header&text=WHY%20RACHIT%3F&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=blinking&desc=%2F%2F+the+answer+is+right+here&descSize=20&descAlignY=70&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%22well+because+'whynotrachit'+sounded+too+desperate.%22;curiosity+%2B+creativity+%2B+the+drive+to+build+smarter+solutions.;AI+PM+%E2%80%A2+Agentic+Systems+%E2%80%A2+Product+%26+Business+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%22well+because+'whynotrachit'+sounded+too+desperate.%22;curiosity+%2B+creativity+%2B+the+drive+to+build+smarter.;AI+PM+%E2%80%A2+Agentic+Systems+%E2%80%A2+Product+%26+Business+Analysis)](https://git.io/typing-svg)
 
 </div>
 
@@ -184,6 +184,34 @@ REQUEST
 
 ---
 
+## 🎲 A FEW THINGS ABOUT ME
+
+```javascript
+const rachit = {
+  currentlyObsessedWith : "agentic coding workflows + MCP integrations",
+  askMeAbout            : ["AI product strategy", "LLM pipelines", "why your PRD is wrong"],
+  funFact               : "named my GitHub after the question I make every product answer",
+  canNotLiveWithout     : ["SQL", "a good prompt chain", "the right extraction ratio"],
+  superpower            : "translating ML team chaos into a roadmap everyone understands",
+  hiddenTalent          : "turning a vague business problem into a structured brief in < 10 mins",
+
+  // non-technical skills that are definitely on my resume somewhere
+  caffeineTolerance     : "dangerously calibrated — occupational hazard of shipping things",
+  cocktailPhilosophy    : "great drinks and great products share one thing: balance > ingredients",
+};
+```
+
+---
+
+## 📡 CURRENTLY RUNNING
+
+![Currently Learning](https://img.shields.io/badge/Learning-MCP_Protocol_Internals-7c3aed?style=flat-square&logoColor=white)
+![Building](https://img.shields.io/badge/Building-Agentic_Workflows-6d28d9?style=flat-square&logoColor=white)
+![Reading](https://img.shields.io/badge/Reading-AI_PM_case_studies-4f46e5?style=flat-square&logoColor=white)
+![Open To](https://img.shields.io/badge/Open_To-AI_PM_%26_Product_Analyst_Roles-059669?style=flat-square&logoColor=white)
+
+---
+
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
@@ -194,10 +222,11 @@ REQUEST
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,4f46e5&height=120&section=footer" width="100%"/>
+> *"when you ask 'why rachit?' — the answer isn't a single line.*
+> *it's a mix of curiosity, creativity, and the drive to keep building smarter."*
 
-**`// WHY RACHIT? → the answer is right here.`**
+<br>
 
-[whyrachit.vercel.app](https://whyrachit.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/whyrachit/) &nbsp;·&nbsp; [rachityadav.ml@gmail.com](mailto:rachityadav.ml@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=140&section=footer&text=%2F%2F+WHY+RACHIT%3F+%E2%86%92+the+answer+is+right+here.&fontSize=16&fontColor=c4b5fd&fontAlignY=65" width="100%"/>
 
 </div>
