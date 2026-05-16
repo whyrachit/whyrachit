@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1e1b4b,30:4c1d95,60:6d28d9,100:7c3aed&height=280&section=header&text=WHY%20RACHIT%3F&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=blinking&desc=%2F%2F+the+answer+is+right+here&descSize=20&descAlignY=70&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
+```
+ _       ____  ____  __   ____  ___   ________  ____________
+| |     / / / / /\ \/ /  / __ \/   | / ____/ / / /  _/_  __/
+| | /| / / /_/ /  \  /  / /_/ / /| |/ /   / /_/ // /  / /   
+| |/ |/ / __  /   / /  / _, _/ ___ / /___/ __  // /  / /    
+|__/|__/_/ /_/   /_/  /_/ |_/_/  |_\____/_/ /_/___/ /_/     
+```
 
 </div>
 
@@ -222,11 +228,31 @@ const rachit = {
 
 <div align="center">
 
-> *"when you ask 'why rachit?' — the answer isn't a single line.*
-> *it's a mix of curiosity, creativity, and the drive to keep building smarter."*
+---
 
-<br>
+```
+// WHY RACHIT?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=140&section=footer&text=%2F%2F+WHY+RACHIT%3F+%E2%86%92+the+answer+is+right+here.&fontSize=16&fontColor=c4b5fd&fontAlignY=65" width="100%"/>
+when you ask "why rachit?" — the answer isn't a single line.
+it's curiosity that questions everything before building it.
+creativity that finds the angle no one else considered.
+and the drive to keep shipping smarter, not just faster.
+
+the name is a question. the work is the answer.
+```
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+```
+ _       ____  ____  __   ____  ___   ________  ____________
+| |     / / / / /\ \/ /  / __ \/   | / ____/ / / /  _/_  __/
+| | /| / / /_/ /  \  /  / /_/ / /| |/ /   / /_/ // /  / /   
+| |/ |/ / __  /   / /  / _, _/ ___ / /___/ __  // /  / /    
+|__/|__/_/ /_/   /_/  /_/ |_/_/  |_\____/_/ /_/___/ /_/     
+```
+
+[whyrachit.vercel.app](https://whyrachit.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/whyrachit/) &nbsp;·&nbsp; [rachityadav.ml@gmail.com](mailto:rachityadav.ml@gmail.com)
 
 </div>
