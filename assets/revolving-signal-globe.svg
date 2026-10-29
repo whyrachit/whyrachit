@@ -1,0 +1,342 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="100%" height="100%">
+  <defs>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="glowGreen" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowAmber" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glowRed" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    :root {
+      --bg: #09090b;
+      --card-bg: #121217;
+      --border: #27272a;
+      --text: #f4f4f5;
+      --text-muted: #71717a;
+      --accent: #a78bfa;
+      --green: #22c55e;
+      --amber: #f59e0b;
+      --red: #ef4444;
+      --mono: ui-monospace, SFMono-Regular, 'Geist Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #fdfdfc;
+        --card-bg: #f4f4f2;
+        --border: #e4e4e0;
+        --text: #18181b;
+        --text-muted: #71717a;
+        --accent: #7c3aed;
+      }
+    }
+
+    .canvas-bg { fill: var(--bg); }
+    .card { fill: var(--card-bg); stroke: var(--border); stroke-width: 1.5; rx: 10px; }
+    .header-bar { fill: url(#headerGrad); stroke: var(--border); stroke-width: 1; }
+    .title-text { font-family: var(--mono); font-size: 11.5px; fill: var(--text-muted); font-weight: 600; letter-spacing: 0.08em; }
+    .accent-text { fill: var(--accent); }
+    .muted-text { fill: var(--text-muted); }
+    .body-text { font-family: var(--mono); font-size: 12px; fill: var(--text); }
+    .ascii-globe-frame {
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      fill: var(--accent);
+      white-space: pre;
+    }
+
+    @keyframes pulseGreen {
+      0%, 100% { opacity: 0.95; transform: scale(1); }
+      50% { opacity: 0.65; transform: scale(0.96); }
+    }
+    @keyframes pulseScanline {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(440px); }
+    }
+    .lamp-green {
+      animation: pulseGreen 2.2s ease-in-out infinite;
+      transform-origin: 90px 245px;
+    }
+
+    
+    @keyframes frameCycle0 {
+      0% { opacity: 0; }
+      0.00% { opacity: 1; }
+      6.25% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-0 {
+      animation: frameCycle0 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle1 {
+      0% { opacity: 0; }
+      6.25% { opacity: 1; }
+      12.50% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-1 {
+      animation: frameCycle1 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle2 {
+      0% { opacity: 0; }
+      12.50% { opacity: 1; }
+      18.75% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-2 {
+      animation: frameCycle2 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle3 {
+      0% { opacity: 0; }
+      18.75% { opacity: 1; }
+      25.00% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-3 {
+      animation: frameCycle3 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle4 {
+      0% { opacity: 0; }
+      25.00% { opacity: 1; }
+      31.25% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-4 {
+      animation: frameCycle4 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle5 {
+      0% { opacity: 0; }
+      31.25% { opacity: 1; }
+      37.50% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-5 {
+      animation: frameCycle5 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle6 {
+      0% { opacity: 0; }
+      37.50% { opacity: 1; }
+      43.75% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-6 {
+      animation: frameCycle6 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle7 {
+      0% { opacity: 0; }
+      43.75% { opacity: 1; }
+      50.00% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-7 {
+      animation: frameCycle7 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle8 {
+      0% { opacity: 0; }
+      50.00% { opacity: 1; }
+      56.25% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-8 {
+      animation: frameCycle8 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle9 {
+      0% { opacity: 0; }
+      56.25% { opacity: 1; }
+      62.50% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-9 {
+      animation: frameCycle9 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle10 {
+      0% { opacity: 0; }
+      62.50% { opacity: 1; }
+      68.75% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-10 {
+      animation: frameCycle10 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle11 {
+      0% { opacity: 0; }
+      68.75% { opacity: 1; }
+      75.00% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-11 {
+      animation: frameCycle11 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle12 {
+      0% { opacity: 0; }
+      75.00% { opacity: 1; }
+      81.25% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-12 {
+      animation: frameCycle12 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle13 {
+      0% { opacity: 0; }
+      81.25% { opacity: 1; }
+      87.50% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-13 {
+      animation: frameCycle13 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle14 {
+      0% { opacity: 0; }
+      87.50% { opacity: 1; }
+      93.75% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-14 {
+      animation: frameCycle14 2.4s steps(1) infinite;
+    }
+  
+    @keyframes frameCycle15 {
+      0% { opacity: 0; }
+      93.75% { opacity: 1; }
+      100.00% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .frame-15 {
+      animation: frameCycle15 2.4s steps(1) infinite;
+    }
+  
+  </style>
+
+  <!-- Container -->
+  <rect width="860" height="440" class="canvas-bg" rx="12" />
+  <rect x="8" y="8" width="844" height="424" class="card" />
+
+  <!-- Header Bar -->
+  <rect x="8" y="8" width="844" height="38" class="header-bar" rx="10" />
+  <circle cx="28" cy="27" r="5" fill="#ef4444" />
+  <circle cx="44" cy="27" r="5" fill="#f59e0b" />
+  <circle cx="60" cy="27" r="5" fill="#22c55e" />
+
+  <text x="82" y="31" class="title-text">
+    whyrachit.in // <tspan class="accent-text">THE CROSSING</tspan> · 3D ORBIT HERO &amp; REVOLVING ASCII GLOBE
+  </text>
+  <text x="832" y="31" text-anchor="end" class="title-text muted-text">
+    LAT 22.5726°N · LON 88.3639°E [KOLKATA]
+  </text>
+
+  <!-- Divider Line -->
+  <line x1="8" y1="46" x2="852" y2="46" stroke="var(--border)" stroke-width="1.2" />
+
+  <!-- LEFT SIDE: 3D Signal ASCII Box -->
+  <g transform="translate(24, 60)">
+    <rect width="360" height="320" rx="8" fill="var(--bg)" stroke="var(--border)" stroke-width="1.2" />
+    <text x="18" y="26" class="title-text" style="font-size: 11px;">
+      [HERO_OBJECT: 3D KOLKATA STREET SIGNAL]
+    </text>
+    <line x1="18" y1="36" x2="342" y2="36" stroke="var(--border)" stroke-width="1" />
+
+    <!-- ASCII Street Signal Art -->
+    <text x="22" y="58" font-family="var(--mono)" font-size="11.5px" fill="var(--text)" xml:space="preserve">
+<tspan x="22" dy="0">       .---.          ┌─────────────────────────┐</tspan>
+<tspan x="22" dy="16">      /              │ "Colour lives at the    │</tspan>
+<tspan x="22" dy="16">     | () () |        │  crossing; everything   │</tspan>
+<tspan x="22" dy="16">   .-'-------'-.      │  after is paper &amp; ink." │</tspan>
+<tspan x="22" dy="16">  /  [ RED ]         └─────────────────────────┘</tspan>
+<tspan x="22" dy="16"> |    ( O )      |     STATUS: LIVE SIGNAL</tspan>
+<tspan x="22" dy="16"> |   [AMBER]     |     MODEL : Blender 3D Wire</tspan>
+<tspan x="22" dy="16"> |    ( O )      |     CAMERA: Continuous Orbit</tspan>
+<tspan x="22" dy="16"> |   [GREEN]     |     AUDIO : Sarvam Indic 105B</tspan>
+<tspan x="22" dy="16"> |   (( O ))     |     RULES : Zero-grunt human</tspan>
+<tspan x="22" dy="16">    .-------.  /     ───────────────────────────</tspan>
+<tspan x="22" dy="16">   '-'   |   '-'      "Watch what people quietly</tspan>
+<tspan x="22" dy="16">         |             choose not to do."</tspan>
+<tspan x="22" dy="16">       ====           ───────────────────────────</tspan>
+<tspan x="22" dy="16">     /=======        whyrachit.in/about</tspan>
+    </text>
+
+    <!-- Glowing Signal Lamps -->
+    <circle cx="86" cy="115" r="7" fill="#ef4444" opacity="0.4" />
+    <circle cx="86" cy="147" r="7" fill="#f59e0b" opacity="0.4" />
+    <circle cx="86" cy="179" r="8" fill="#22c55e" filter="url(#glowGreen)" class="lamp-green" />
+    <circle cx="86" cy="179" r="4.5" fill="#ffffff" class="lamp-green" />
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="410" y1="46" x2="410" y2="432" stroke="var(--border)" stroke-width="1.2" stroke-dasharray="4 4" />
+
+  <!-- RIGHT SIDE: REVOLVING ASCII GLOBE -->
+  <g transform="translate(0, 0)">
+    <text x="440" y="80" class="title-text">
+      [01] EVERYTHING, TURNING // <tspan class="accent-text">SKILLS GLOBE (360° REVOLVE)</tspan>
+    </text>
+    <text x="440" y="98" font-family="var(--mono)" font-size="10.5px" fill="var(--text-muted)">
+      Real-time ASCII matrix render · Step projection around Y-axis
+    </text>
+
+    <!-- Animated Globe Frames -->
+    <text class="ascii-globe-frame frame-0" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\-\\--|---/--///###         </tspan><tspan x="440" dy="18">        ###\\  \    |   //  ////###       </tspan><tspan x="440" dy="18">       ##\\---\- ---|----/ ---//-/##      </tspan><tspan x="440" dy="18">      #  \   \\    |      /    /   /#     </tspan><tspan x="440" dy="18">     #--\----\- ---|--- --/ ----/--/-#    </tspan><tspan x="440" dy="18">    ##  \    \     |      /     /   /##   </tspan><tspan x="440" dy="18">    #\ \     \     |      /     /   / #   </tspan><tspan x="440" dy="18">    #==\==== \== ==|=== ==/== ==/====/#   </tspan><tspan x="440" dy="18">    #  \     \     |      /     /   / #   </tspan><tspan x="440" dy="18">    ## \\    \     |      /     /   /##   </tspan><tspan x="440" dy="18">     #\-\----\- ---|--- --/ ---//--//#    </tspan><tspan x="440" dy="18">      #\ \   \\    |      /    /  //#     </tspan><tspan x="440" dy="18">       ##-\---\- ---|----/ ---/--/##      </tspan><tspan x="440" dy="18">        ###\\  \    |    /   /  ###       </tspan><tspan x="440" dy="18">          ###\\-\\--|---/--///###         </tspan><tspan x="440" dy="18">             ########|########            </tspan></text>
+<text class="ascii-globe-frame frame-1" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\-\\--|--//-////###         </tspan><tspan x="440" dy="18">        ###\\ \\   ||   //  // /###       </tspan><tspan x="440" dy="18">       ##\\---\----|- ---/----/--/##      </tspan><tspan x="440" dy="18">      # \\   \     |     /     /  //#     </tspan><tspan x="440" dy="18">     #--\----\--- -\- --- /-- -/---/-#    </tspan><tspan x="440" dy="18">    ## \\   \\     \      /     /   /##   </tspan><tspan x="440" dy="18">    #  \    \      \      /     /   /.#   </tspan><tspan x="440" dy="18">    #==\= ==\== == \= == =/ ====/ ==/=#   </tspan><tspan x="440" dy="18">    #  \    \      \      /     /   /.#   </tspan><tspan x="440" dy="18">    ## \    \      \      /     /   /##   </tspan><tspan x="440" dy="18">     #--\----\--- -\- ---//-- -/---//#    </tspan><tspan x="440" dy="18">      #  \   \     |     /    //  //#     </tspan><tspan x="440" dy="18">       ##-\---\----|- ---/----/--/##      </tspan><tspan x="440" dy="18">        ###\   \   |    //   / /###       </tspan><tspan x="440" dy="18">          ###\\\\---|--//--///###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-2" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####-\\\-||--//-////###         </tspan><tspan x="440" dy="18">        ###   \\   |    /   //./###       </tspan><tspan x="440" dy="18">       ##----\\- --\-----/ ---/--/##      </tspan><tspan x="440" dy="18">      #      \     \     /    //. //#     </tspan><tspan x="440" dy="18">     #------\-- ---\--- -/- ---/---/-#    </tspan><tspan x="440" dy="18">    ##      \     \      /     /.. //##   </tspan><tspan x="440" dy="18">    #       \     \      /      /.  /.#   </tspan><tspan x="440" dy="18">    #=======\=== =\ === =/ == ==/===/=#   </tspan><tspan x="440" dy="18">    #       \     \      /      /.  /.#   </tspan><tspan x="440" dy="18">    ##      \     \      /     //.  /##   </tspan><tspan x="440" dy="18">     #------\-- --\\--- -/- ---/---/-#    </tspan><tspan x="440" dy="18">      #      \     \     /    //. /.#     </tspan><tspan x="440" dy="18">       ##----\\- --\----// --//--/##      </tspan><tspan x="440" dy="18">        ###   \\   |    /   //./###       </tspan><tspan x="440" dy="18">          ###--\\--||--//--///###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-3" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####-----|---|--////###         </tspan><tspan x="440" dy="18">        ###        \    /.. //./###       </tspan><tspan x="440" dy="18">       ##---------\\- --/----//--/##      </tspan><tspan x="440" dy="18">      #           \     // .  / . //#     </tspan><tspan x="440" dy="18">     #------- --- \-- ---/--- -/---/-#    </tspan><tspan x="440" dy="18">    ##            \      / .   / . //##   </tspan><tspan x="440" dy="18">    #             \      / .   / .  /.#   </tspan><tspan x="440" dy="18">    #==== ===== ==\== == /=.===/=.==/=#   </tspan><tspan x="440" dy="18">    #             \      / .   / .  /.#   </tspan><tspan x="440" dy="18">    ##            \      / .   / . //##   </tspan><tspan x="440" dy="18">     #------- --- \-- ---/--- -/---/-#    </tspan><tspan x="440" dy="18">      #           \     // .  / . /.#     </tspan><tspan x="440" dy="18">       ##---------\\- --/----/---/##      </tspan><tspan x="440" dy="18">        ###        \    /.. //./###       </tspan><tspan x="440" dy="18">          ###------|---/--////###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-4" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####---------|--////###         </tspan><tspan x="440" dy="18">        ###          . // . //./###       </tspan><tspan x="440" dy="18">       ##------- -------/- --/---/##      </tspan><tspan x="440" dy="18">      #              .  /  .  / . /.#     </tspan><tspan x="440" dy="18">     #--------- --- --- /--.--/----/-#    </tspan><tspan x="440" dy="18">    ##               .  /   .  / . /.##   </tspan><tspan x="440" dy="18">    #                .  //  .  / .. /.#   </tspan><tspan x="440" dy="18">    #======== == == === =/ === /====/=#   </tspan><tspan x="440" dy="18">    #                .   /  .  /  . /.#   </tspan><tspan x="440" dy="18">    ##               .  /   .  / . / ##   </tspan><tspan x="440" dy="18">     #--------- --- --- /--.--/----/-#    </tspan><tspan x="440" dy="18">      #              .  /  .  / . //#     </tspan><tspan x="440" dy="18">       ##------- -------/-.--/--//##      </tspan><tspan x="440" dy="18">        ###          . // . / ./###       </tspan><tspan x="440" dy="18">          ###----------/--//-/###         </tspan><tspan x="440" dy="18">             ########.########            </tspan></text>
+<text class="ascii-globe-frame frame-5" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####------------////###         </tspan><tspan x="440" dy="18">        ###     ..   .    .//../###       </tspan><tspan x="440" dy="18">       ##------------.-------/---/##      </tspan><tspan x="440" dy="18">      #        .     .     ..// ../.#     </tspan><tspan x="440" dy="18">     #------- --- ---.--- --- /----/-#    </tspan><tspan x="440" dy="18">    ##         .     .      . /  ../ ##   </tspan><tspan x="440" dy="18">    #          .     .      .  /  ./ .#   </tspan><tspan x="440" dy="18">    #==== =====.== ==.== == ===/= =/==#   </tspan><tspan x="440" dy="18">    #          .     .      .  /  ./ .#   </tspan><tspan x="440" dy="18">    ##         .     .      . /  ../ ##   </tspan><tspan x="440" dy="18">     #------- --- ---.--- --- /---//-#    </tspan><tspan x="440" dy="18">      #        .     .     ..// .///#     </tspan><tspan x="440" dy="18">       ##------------.------//--//##      </tspan><tspan x="440" dy="18">        ###     ..   .    . / ./###       </tspan><tspan x="440" dy="18">          ###-------------////###         </tspan><tspan x="440" dy="18">             ########.########            </tspan></text>
+<text class="ascii-globe-frame frame-6" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####--------------//###         </tspan><tspan x="440" dy="18">        ### ..  ..    .   ..  //###       </tspan><tspan x="440" dy="18">       ##-------.--------- -----//##      </tspan><tspan x="440" dy="18">      #   .    ..     .     .    //.#     </tspan><tspan x="440" dy="18">     #---------.--- --- --- ------/--#    </tspan><tspan x="440" dy="18">    ##   ..    .      .     ..    ./ ##   </tspan><tspan x="440" dy="18">    #    .     .      .      .    ./ .#   </tspan><tspan x="440" dy="18">    #======== == == === == ==.=====/==#   </tspan><tspan x="440" dy="18">    #    .     .      .      .    ./ .#   </tspan><tspan x="440" dy="18">    ##   .     .      .     ..    ./ ##   </tspan><tspan x="440" dy="18">     #---------.--- --- --- ------/-/#    </tspan><tspan x="440" dy="18">      #   ..    .     .     .   .///#     </tspan><tspan x="440" dy="18">       ##-------.--------- -----//##      </tspan><tspan x="440" dy="18">        ### ..   .    .   ..  ./###       </tspan><tspan x="440" dy="18">          ###---------------//###         </tspan><tspan x="440" dy="18">             ########.########            </tspan></text>
+<text class="ascii-globe-frame frame-7" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####---------------/###         </tspan><tspan x="440" dy="18">        ###...   .    .   ..  ..###       </tspan><tspan x="440" dy="18">       ##------------ ------------##      </tspan><tspan x="440" dy="18">      #.  ..    .     .     .    . .#     </tspan><tspan x="440" dy="18">     #------- --- --- --- ---.-------#    </tspan><tspan x="440" dy="18">    ##.   .    ..     .      .    .  ##   </tspan><tspan x="440" dy="18">    #.   .     .      .      .    .  .#   </tspan><tspan x="440" dy="18">    #====.=====.== == == == ===== ====#   </tspan><tspan x="440" dy="18">    #.   .     .      .      .    .  .#   </tspan><tspan x="440" dy="18">    ##.   .    ..     .      .    .  ##   </tspan><tspan x="440" dy="18">     #------- --- --- --- ---.------/#    </tspan><tspan x="440" dy="18">      #..  .    .     .     .    . /#     </tspan><tspan x="440" dy="18">       ##------------ ------------##      </tspan><tspan x="440" dy="18">        ### ..   .    .    .  ..###       </tspan><tspan x="440" dy="18">          ###-----------------###         </tspan><tspan x="440" dy="18">             ########.########            </tspan></text>
+<text class="ascii-globe-frame frame-8" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####----------------###         </tspan><tspan x="440" dy="18">        ###....  ..   .    .  ..###       </tspan><tspan x="440" dy="18">       ##------- --------- -------##      </tspan><tspan x="440" dy="18">      #.   .    .      .    ..   .  #     </tspan><tspan x="440" dy="18">     #--------- --- ---.--- ---------#    </tspan><tspan x="440" dy="18">    ##.   .     .      .     .    .  ##   </tspan><tspan x="440" dy="18">    # .   .     .      .     .     . .#   </tspan><tspan x="440" dy="18">    #======== ==.== ===.== ==.========#   </tspan><tspan x="440" dy="18">    # .   .     .      .     .     .  #   </tspan><tspan x="440" dy="18">    ##.   .     .      .     .    .. ##   </tspan><tspan x="440" dy="18">     #--------- --- ---.--- ---------#    </tspan><tspan x="440" dy="18">      #..  .    .      .    ..   . .#     </tspan><tspan x="440" dy="18">       ##------- --------- -------##      </tspan><tspan x="440" dy="18">        ###  .   .    .    .  ..###       </tspan><tspan x="440" dy="18">          ###-----------------###         </tspan><tspan x="440" dy="18">             ########.########            </tspan></text>
+<text class="ascii-globe-frame frame-9" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####----------------###         </tspan><tspan x="440" dy="18">        ###\ ..  ..   ..   .. ..###       </tspan><tspan x="440" dy="18">       ##------------ ------------##      </tspan><tspan x="440" dy="18">      #\.  .     .     .     .   .. #     </tspan><tspan x="440" dy="18">     #\------ --- --- --- ---.-------#    </tspan><tspan x="440" dy="18">    ##\   .     .      .     ..   .. ##   </tspan><tspan x="440" dy="18">    #\.   .     .      .      .    .  #   </tspan><tspan x="440" dy="18">    #\=== ===== == == == == ===== ====#   </tspan><tspan x="440" dy="18">    #\.   .     .      .      .    .  #   </tspan><tspan x="440" dy="18">    ##\   .     .      .      .    . ##   </tspan><tspan x="440" dy="18">     #\\----- ---.--- --- ---.-------#    </tspan><tspan x="440" dy="18">      #\\  ..    .     .     .   .  #     </tspan><tspan x="440" dy="18">       ##\----------- ------------##      </tspan><tspan x="440" dy="18">        ###. .   ..    .   .   .###       </tspan><tspan x="440" dy="18">          ###\----------------###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-10" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\\--------------###         </tspan><tspan x="440" dy="18">        ###\\\.   .    .   ..   ###       </tspan><tspan x="440" dy="18">       ##--\---- --------- -------##      </tspan><tspan x="440" dy="18">      #\. \..    .     .     .      #     </tspan><tspan x="440" dy="18">     #\---\---- --- ---.--- ---------#    </tspan><tspan x="440" dy="18">    ##\. \\.     .      .     .      ##   </tspan><tspan x="440" dy="18">    #\.  \.      .      .     .       #   </tspan><tspan x="440" dy="18">    #\===\=== == == === == ===.=======#   </tspan><tspan x="440" dy="18">    #\.  \.      .      .     .       #   </tspan><tspan x="440" dy="18">    ##\  \..     .      .     .      ##   </tspan><tspan x="440" dy="18">     #\---\---- --- ---.--- ---------#    </tspan><tspan x="440" dy="18">      #\. \\.    .     .     .      #     </tspan><tspan x="440" dy="18">       ##\-\\--- --------- -------##      </tspan><tspan x="440" dy="18">        ###.\\.   .    .   ..   ###       </tspan><tspan x="440" dy="18">          ###\\\--------------###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-11" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\\-\\-----------###         </tspan><tspan x="440" dy="18">        ###.\\. \\.    .        ###       </tspan><tspan x="440" dy="18">       ##--\----\---- ------------##      </tspan><tspan x="440" dy="18">      #\. \ .  \ ..     .           #     </tspan><tspan x="440" dy="18">     #\--\--- -\-.--- --- --- -------#    </tspan><tspan x="440" dy="18">    ##\. \ .   \ .      .            ##   </tspan><tspan x="440" dy="18">    #\.  \ .   \ .      .             #   </tspan><tspan x="440" dy="18">    #\===\====\\== == ==.== ===== ====#   </tspan><tspan x="440" dy="18">    #\.  \ .   \ .      .             #   </tspan><tspan x="440" dy="18">    ##\. \ .   \ .      .            ##   </tspan><tspan x="440" dy="18">     #\--\\-- -\-.--- --- --- -------#    </tspan><tspan x="440" dy="18">      #\. \ .  \ ..     .           #     </tspan><tspan x="440" dy="18">       ##\-\----\---- ------------##      </tspan><tspan x="440" dy="18">        ###.\\. \\.    .        ###       </tspan><tspan x="440" dy="18">          ###\\\-\\-----------###         </tspan><tspan x="440" dy="18">             ######## ########            </tspan></text>
+<text class="ascii-globe-frame frame-12" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\\-\\--|--------###         </tspan><tspan x="440" dy="18">        ###\\\. \ .. |          ###       </tspan><tspan x="440" dy="18">       ##-\\---\ ----|---- -------##      </tspan><tspan x="440" dy="18">      #\. \ .  \  .  |              #     </tspan><tspan x="440" dy="18">     #\--\-----\--- -|- --- ---------#    </tspan><tspan x="440" dy="18">    ##\. \ .  \   .  |               ##   </tspan><tspan x="440" dy="18">    #\. \\ .  \  ..  |                #   </tspan><tspan x="440" dy="18">    #\==\==== \= == =|= == == ========#   </tspan><tspan x="440" dy="18">    #\. \  .  \  .   |                #   </tspan><tspan x="440" dy="18">    ## . \ .  \   .  |               ##   </tspan><tspan x="440" dy="18">     #\--\----\\--- -|- --- ---------#    </tspan><tspan x="440" dy="18">      #\. \ .  \  .  |              #     </tspan><tspan x="440" dy="18">       ##--\---\\----|---- -------##      </tspan><tspan x="440" dy="18">        ###.\ . \ .. |          ###       </tspan><tspan x="440" dy="18">          ###\\--\---|--------###         </tspan><tspan x="440" dy="18">             ########|########            </tspan></text>
+<text class="ascii-globe-frame frame-13" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\\-\---|--//----###         </tspan><tspan x="440" dy="18">        ###\\\.\\    |   //     ###       </tspan><tspan x="440" dy="18">       ##-\\---\-----|----/-------##      </tspan><tspan x="440" dy="18">      #\.\\ ..\\     |     /        #     </tspan><tspan x="440" dy="18">     #\--\--- \-- ---|--- -/- -------#    </tspan><tspan x="440" dy="18">    ## .\\  . \      |     /         ##   </tspan><tspan x="440" dy="18">    #\ .\  .  \      |     /          #   </tspan><tspan x="440" dy="18">    #\==\ ====\ == ==|== ==//==== ====#   </tspan><tspan x="440" dy="18">    #\ .\  .  \      |     /          #   </tspan><tspan x="440" dy="18">    ## .\\  . \      |     /         ##   </tspan><tspan x="440" dy="18">     #\--\--- \-- ---|--- -/- -------#    </tspan><tspan x="440" dy="18">      #\.\\ ..\\     |     /        #     </tspan><tspan x="440" dy="18">       ##-\\---\-----|----/-------##      </tspan><tspan x="440" dy="18">        ###.\ . \    |   //     ###       </tspan><tspan x="440" dy="18">          ###\\-\\---|--//----###         </tspan><tspan x="440" dy="18">             ########|########            </tspan></text>
+<text class="ascii-globe-frame frame-14" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\\\\--||--//-//-###         </tspan><tspan x="440" dy="18">        ###\\  \\   |    //  // ###       </tspan><tspan x="440" dy="18">       ##-\----\ ---|-----/----/--##      </tspan><tspan x="440" dy="18">      #\.\    \     |     //    /   #     </tspan><tspan x="440" dy="18">     #\--\----\ --- |-- ---/----/----#    </tspan><tspan x="440" dy="18">    ## .\    \\     |      /    //   ##   </tspan><tspan x="440" dy="18">    #\ .\    \      |      /     /    #   </tspan><tspan x="440" dy="18">    #\==\====\== == |== == /== ==/====#   </tspan><tspan x="440" dy="18">    #\ .\    \      |      /     /    #   </tspan><tspan x="440" dy="18">    ## .\    \\     |      /     /   ##   </tspan><tspan x="440" dy="18">     #\--\----\ --- |-- ---/----/----#    </tspan><tspan x="440" dy="18">      #\.\\   \     |     /    //   #     </tspan><tspan x="440" dy="18">       ##-\\---\ ---|-----/---//--##      </tspan><tspan x="440" dy="18">        ###\\  \\   |    /   // ###       </tspan><tspan x="440" dy="18">          ###\\-\\--||--//-///###         </tspan><tspan x="440" dy="18">             ########|########            </tspan></text>
+<text class="ascii-globe-frame frame-15" x="440" y="115"><tspan x="440" dy="0">                                          </tspan><tspan x="440" dy="18">             #################            </tspan><tspan x="440" dy="18">          ####\-\\--|---/--///###         </tspan><tspan x="440" dy="18">        ###\\  \\   |    /   ///###       </tspan><tspan x="440" dy="18">       ##-\---\\----| ----/---//--##      </tspan><tspan x="440" dy="18">      #\ \    \     |     /    //  /#     </tspan><tspan x="440" dy="18">     #\-\----\--- --| --- /-- --/---/#    </tspan><tspan x="440" dy="18">    ##  \    \      |     //    /   /##   </tspan><tspan x="440" dy="18">    #\  \    \      |      /     /   /#   </tspan><tspan x="440" dy="18">    #===\ ===\= == =| == ==/=====/===/#   </tspan><tspan x="440" dy="18">    #\  \    \      |      /     /   /#   </tspan><tspan x="440" dy="18">    ##  \    \      |     //    /   /##   </tspan><tspan x="440" dy="18">     #\-\\---\\-- --| --- /-- --/--//#    </tspan><tspan x="440" dy="18">      #\ \    \     |     /    /  //#     </tspan><tspan x="440" dy="18">       ##-\\--\\----| ---//---//-/##      </tspan><tspan x="440" dy="18">        ###\\  \    |    /   // ###       </tspan><tspan x="440" dy="18">          ###\\-\\--|---//-///###         </tspan><tspan x="440" dy="18">             ########|########            </tspan></text>
+  </g>
+
+  <!-- Bottom Telemetry Bar -->
+  <line x1="8" y1="396" x2="852" y2="396" stroke="var(--border)" stroke-width="1.2" />
+  <text x="24" y="420" font-family="var(--mono)" font-size="11.5px" fill="var(--text-muted)">
+    <tspan fill="#22c55e">● SYSTEM READY</tspan> &nbsp;·&nbsp;
+    HOICHOI OS: <tspan fill="var(--text)">ACTIVE [20+ DEPTS]</tspan> &nbsp;·&nbsp;
+    MASCOTS: <tspan fill="var(--accent)">7 ON WATCH</tspan> &nbsp;·&nbsp;
+    HEURISTIC: <tspan fill="var(--text)">BALANCE &gt; INGREDIENTS</tspan>
+  </text>
+  <text x="836" y="420" text-anchor="end" font-family="var(--mono)" font-size="11.5px" fill="var(--accent)">
+    whyrachit.in ↗
+  </text>
+</svg>

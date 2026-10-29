@@ -9,8 +9,18 @@
 ```
 
 ### 🚦 The crossing at [whyrachit.in](https://whyrachit.in)
+*Tap anything. Some of it talks back.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=AI+Product+Manager+%E2%80%A2+Founder's+Office+%40+hoichoi;%22I+get+agents+to+do+the+grunt+work+so+I+can+take+credit.%22;A+statistician+who+got+distracted+by+AI+%2B+a+habit+of+building+for+5+friends.;Tap+anything.+Some+of+it+talks+back.)](https://whyrachit.in)
+<br>
+
+<!-- REVOLVING ASCII SIGNAL & 360° GLOBE HERO -->
+<p align="center">
+  <a href="https://whyrachit.in">
+    <img src="assets/revolving-signal-globe.svg" alt="whyrachit.in - 3D Kolkata Crossing & Revolving ASCII Globe" width="860">
+  </a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=70&lines=AI+Product+Manager+%E2%80%A2+Founder's+Office+%40+hoichoi;%22I+get+agents+to+do+the+grunt+work+so+I+can+take+credit.%22;A+statistician+who+got+distracted+by+AI+%2B+a+habit+of+building+for+5+friends.;Colour+lives+at+the+crossing.+Everything+after+is+paper+and+ink.)](https://whyrachit.in)
 
 <br>
 
@@ -29,21 +39,68 @@
 > *"A small white dog from Kasukabe who took a job in Kolkata after one forgotten dinner too many. Host of the crossing, runs the inbox. Poke him four times quickly and he gets dizzy."*
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│  NAME         : Rachit Yadav (@whyrachit)                              │
-│  ROLE         : AI Product Manager · Founder's Office @ hoichoi        │
-│  BASED IN     : Kolkata, India                                         │
-│  BACKGROUND   : B.Sc. Statistics (Hons.) · St. Xavier's College        │
-│  THE HABIT    : Watch what people actually do, especially what they    │
-│                 quietly choose not to — and hand the grunt work to AI. │
-│  PHILOSOPHY   : Let the agent do the grunt work, keep humans for       │
-│                 judgment, and make it feel like it was always simple.  │
-└────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  NAME         : Rachit Yadav (@whyrachit)                                   │
+│  ROLE         : AI Product Manager · Founder's Office @ hoichoi             │
+│  BASED IN     : Kolkata, India (22.5726° N, 88.3639° E)                     │
+│  BACKGROUND   : B.Sc. Statistics (Hons.) · St. Xavier's College             │
+│  THE HABIT    : Watch what people actually do, especially what they quietly │
+│                 choose not to — and hand the slow repetitive hours to AI.   │
+│  THE CARDINAL : Let the agent do the grunt work, keep people for judgment,  │
+│  RULE           and make the result feel like it was always this simple.    │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 SHIPPED & LATE-NIGHT EXPERIMENTS
+## 📐 THE DESIGN MANIFESTO & PHILOSOPHY
+*(From the Colophon & System Architecture of [whyrachit.in](https://whyrachit.in/about#colophon))*
+
+```
+                 ┌──────────────────────────────────────────────┐
+                 │          THE CROSSING PHILOSOPHY             │
+                 └──────────────────────┬───────────────────────┘
+                                        │
+         ┌──────────────────────────────┼──────────────────────────────┐
+         ▼                              ▼                              ▼
+  [ TYPE OVER IMAGES ]       [ BLACK & WHITE ON PURPOSE ]     [ 30s THEN THE LONG READ ]
+   No stock photography.      Colour lives only at the         Every project opens with
+   Figures drawn live in      crossing (signal). Everything    a fast TL;DR. The deep
+   ASCII characters & type.   after is paper and ink.          architectural spec underneath.
+```
+
+1. **Type over images**: There are no stock photographs. Every figure is drawn in characters, live: small 3D scenes set in type, turning as you read, and diagrams that decode from noise.
+2. **Black and white, on purpose**: Colour lives at the crossing, in the 3D street signal on the home page. Everything after it is paper and ink, so the work is the only thing asking for attention.
+3. **Thirty seconds, then the long read**: Every file opens with a TL;DR for people in a hurry. The full case study sits underneath for people who read.
+4. **A grid and three voices**: Twelve columns and a lot of air. Precision in names, data in mono, warmth in serif.
+5. **Aesthetics as a product requirement**: Aesthetics are part of the core specification, not cosmetic polish slapped on at the end.
+
+---
+
+## 🧩 HOW I SCOPE AI FEATURES
+
+```
+REQUEST
+  │
+  ├─ Is this actually an AI problem?
+  │       └─ no  → solve simply. ship faster.
+  │       └─ yes ↓
+  │
+  ├─ What does good output look like — exactly?
+  │       └─ define eval criteria & edge-case thresholds before touching a prompt
+  │
+  ├─ What's the acceptable failure mode?
+  │       └─ instrument fallback routes before it ever hits production
+  │
+  └─ Build · Instrument · Measure · Iterate
+
+// Most AI products fail not because the underlying LLM is bad,
+// but because success was never mathematically defined before building started.
+```
+
+---
+
+## 🚀 PRODUCTS & LATE-NIGHT EXPERIMENTS
 
 > *Honestly, I usually build these for like 5 of my friends thinking "surely nobody else will ever need this," only to realize way more people actually end up needing them.*
 
@@ -56,9 +113,10 @@
 *(Sleeps 20 hours a day and still never forgets a dose)*
 
 Medicine reminders for the whole family on the WhatsApp they already have. One button: **Taken**.
-- Zero new apps to install; turns prescription photos or voice notes into clean schedules.
-- Multi-agent escalation: checks in on missed doses and alerts caretakers only if unanswered.
-- Privacy-first encryption for prescriptions, medicine schedules, and health notes.
+- **No new apps**: Turns prescription photos or voice notes into schedules and asks about any ambiguous line.
+- **Zero-Snooze UX**: A snooze turns a reminder into an endless negotiation. Here, there's only *Taken*.
+- **Caretaker Escalation**: Checks in on missed doses and alerts caretakers only if it remains unanswered.
+- **Privacy-first**: End-to-end encryption for prescriptions, schedules, and clinical notes.
 
 `WhatsApp Native` · `Zero-Snooze UX` · `Family Refills`
 
@@ -69,9 +127,9 @@ Medicine reminders for the whole family on the WhatsApp they already have. One b
 **Food & Mixology Agent** &nbsp;·&nbsp; *Kept by **Jaggu the monkey** 🐒*  
 *(Speaks 11+ languages, most of them about bananas)*
 
-Conversational food & craving agent that figures out what you *actually* want and turns saved Instagram reels into real orders.
-- Collapsed 3-app switching (discover → check stock → order) into one seamless session.
-- Powered by **Sarvam AI 30B / 105B** for Indic NLU + **Swiggy MCP** for live inventory, cart building, and checkout handoff.
+Conversational food & craving agent that figures out what you *actually* want and turns saved reels into real orders.
+- **Collapsed 3-app switching**: (discover on Instagram → check inventory → order on delivery app) unified into one fluid session.
+- **NLU + MCP Stack**: **Sarvam AI 30B / 105B** for Indic language understanding + **Swiggy MCP** for real-time inventory, cart building, and checkout handoff across Food, Instamart & Dineout.
 
 `Sarvam AI 105B` · `Swiggy MCP` · `~65% ↓ time-to-order`
 
@@ -85,10 +143,10 @@ Conversational food & craving agent that figures out what you *actually* want an
 *(Up all night listening. Repeats code correctly pronounced)*
 
 Text-to-speech localization engine automating regional voiceovers while keeping technical code jargon intact.
-- Custom phonetic dictionary layer preventing models from butchering syntax like `async/await`, `SQL`, or `REST API`.
-- FastAPI + Sarvam speech stack for multi-lingual developer documentation.
+- **Phonetic Preservation Dictionary**: Prevents TTS models from butchering technical tokens like `async/await`, `SQL`, `FastAPI`, or `REST API` when translating into Indic tongues.
+- **Automated Pipeline**: Python & FastAPI around Sarvam's speech models for seamless developer documentation dubbing.
 
-`Voice AI` · `Indic Speech` · `Phonetic Preservation`
+`Voice AI` · `Indic Speech` · `Phonetic Dictionary`
 
 </td>
 <td width="50%" valign="top">
@@ -98,8 +156,8 @@ Text-to-speech localization engine automating regional voiceovers while keeping 
 *(Moody by default. Has a playlist for every one of them)*
 
 Mood-driven music curator: write how your day felt, get a Spotify playlist in ~3 seconds.
-- Multi-lingual sentiment parsing across Bengali, Hindi, and English.
-- Evaluator agent that audits song lyrics to drop tracks whose lyrical sentiment clashes with your mood.
+- **Trilingual Sentiment Parsing**: Reads emotional nuance across Bengali, Hindi, and English.
+- **Lyric Evaluator Agent**: Drops songs whose lyrics contradict your mood (e.g. upbeat melody with melancholic lyrics).
 
 `Spotify API` · `Streamlit` · `Lyric Sentiment Audit`
 
@@ -113,18 +171,18 @@ Mood-driven music curator: write how your day felt, get a Spotify playlist in ~3
 
 ### 🎬 **Senior Associate · Founder’s Office, hoichoi** (2026 – Present)
 *Raising AI adoption across 20+ departments so everyday workflows get faster and simpler.*
-- **AI Product Manager across 20+ departments**: Audited company-wide use-case registries to separate what's build-ready from what's blocked on data or undocumented rules.
-- **hoichoiOS**: Developing an internal AI assistant unifying knowledge and workflows across all 20+ departments.
-- **Legal OS**: Built end-to-end legal intelligence platform featuring RAG over 3,500+ contracts and full contract lifecycle management (CLM).
+- **AI Product Manager across 20+ departments**: Audited company-wide AI use-case registries team by team to separate what is build-ready from what is blocked on data or undocumented rules.
+- **hoichoiOS**: Developing an internal AI assistant unifying knowledge bases, documentation, and workflows from 20+ departments into a single intelligence layer.
+- **Legal OS**: Built end-to-end legal intelligence platform featuring high-precision RAG over 3,500+ contracts and a complete Contract Lifecycle Management (CLM) workflow.
 - **Content Intelligence MVP**: Authored PRD and led MVP rollout for video embeddings and scene intelligence with external vendor teams.
-- **Voice AI & Founder Special Projects**: Evaluating Indic voice models, automating leadership reporting, and delivering fast-turnaround strategic initiatives.
+- **Voice AI & Founder Special Projects**: Evaluating Indic voice models, automating board & leadership reporting, and executing founder-directed strategic initiatives.
 
 ### 🏗️ **Associate AI Product Manager · 5D VDC Services** (2025 – 2026)
 *Enterprise workflow automation and SaaS integrations across construction-tech.*
-- **etiS 6-product suite**: 0→1 scoping, market analysis, and enterprise integrations (Autodesk, Zoho); onboarded 2 enterprise clients and 200+ users in 3 months.
-- **Autodesk–WhatsApp Multi-Agent System**: Intent-based routing for document retrieval and issue tracking, cutting retrieval time ~70% for 600+ daily users.
-- **Nudge Alert System**: 4-tier alert system that eliminated 40K redundant submissions and reduced process errors by 20%.
-- **Tally ERP Pipeline**: Ingested 150K+ monthly ledger entries, saving 30+ analyst hrs/week and hitting 96.4% inventory reconciliation accuracy.
+- **etiS 6-product suite**: 0→1 scoping, market & competitor analysis, and enterprise integrations (Autodesk, Zoho); onboarded 2 enterprise clients and 200+ users in 3 months.
+- **Autodesk–WhatsApp Multi-Agent System**: Built an intent-based routing system for issue tracking and blueprint retrieval, cutting document retrieval time by ~70% for 600+ daily users.
+- **Nudge Alert System**: 4-tier alert system using behavioral usage analytics to eliminate 40K redundant submissions and reduce process error rates by 20%.
+- **Tally ERP Pipeline**: Ingested 150K+ monthly ledger entries, saving 30+ analyst hrs/week and bringing inventory reconciliation accuracy to 96.4%.
 
 ---
 
@@ -133,13 +191,14 @@ Mood-driven music curator: write how your day felt, get a Spotify playlist in ~3
 > *Written at 3 AM fueled by dynamic code issues, existential questions, and an unhealthy amount of coffee.*
 
 ```
-├── 🐧 Deterministic Inference for LLMs ── [Kept by Xerox the penguin]
-│   └── Floating-point non-determinism in parallel GPU architectures,
+├── 🐧 Deterministic Inference for LLMs ──────── [Kept by Xerox the penguin]
+│   └── "Looks exactly like every other penguin. Prefers it that way."
+│   └── Deep-dive into floating-point non-determinism in parallel GPU architectures,
 │       mathematical PPO variance in RLHF updates, and batch invariance engineering.
 │
-└── 🦥 Abandonment Issues ──────────────── [Kept by Dheere the sloth]
+└── 🦥 Abandonment Issues ────────────────────── [Kept by Dheere the sloth]
     └── "Started this survey in 2019. Still on question four, and very much not abandoning it."
-    └── Statistical diagnosis of dropout patterns in forms using regression models & NLP.
+    └── Statistical diagnosis of dropout patterns in digital forms using regression models & NLP.
 ```
 
 ---
@@ -155,7 +214,7 @@ AI & Agents:
 
 Data & Math (The Statistics Degree):
   core:          [Python, SQL, Pandas, NumPy, scikit-learn, PyTorch, R]
-  foundations:   [Large Sample Theory, Sampling & Inference, Linear Models, Attrition Modeling]
+  foundations:   [Large Sample Theory, Sampling & Inference, Linear Models, Survey Attrition]
   pipelines:     [Tally ERP automation, ETL pipelines, Vector DBs, RAG evaluation]
 
 Product & Design:
@@ -165,9 +224,9 @@ Product & Design:
 
 ---
 
-## 🐾 RESIDENTS OF WHYRACHIT.IN
+## 🐾 RESIDENTS OF THE CROSSING
 
-Every product and file on the portfolio has its own keeper watching your cursor:
+Every product, file, and case study on the portfolio has its own keeper watching your cursor:
 
 | Resident | Looks After | Quirks |
 | :--- | :--- | :--- |
