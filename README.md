@@ -8,45 +8,129 @@ Statistician by training, building agentic AI systems & product workflows end-to
 ---
 
 ```
-       ┌───┐   THE CROSSING // KOLKATA
-       │ 🔴│   STOP : Don't automate what isn't working manually.
-       │ 🟡│   EVAL : Define 'good' before touching a prompt.
-       │ 🟢│   LIVE : Founder's Office @ hoichoi · Systems active.
-       └─┬─┘   ──────────────────────────────────────────────────
-        🐕     FRONTDESK: Shiro on duty. (Gets dizzy if poked)
+ ╔══════════════════════════════════════════════════════╗
+ ║  🕹️  THE CROSSING: ARCADE EDITION      [CREDIT: 01]  ║
+ ╠══════════════════════════════════════════════════════╣
+ ║  LOCATION: Kolkata [22.5726° N, 88.3639° E]          ║
+ ║  SIGNAL  : 🟢 GREEN WAVE ACTIVE (SYSTEMS LIVE)       ║
+ ║  FRONTDESK: Shiro 🐕 (HP: 100/100 · Speed: Kasukabe) ║
+ ║  GUILD   : Founder's Office @ hoichoi                ║
+ ║  MANA    : 100% Black Coffee & Statistical Rigor     ║
+ ║                                                      ║
+ ║  "I get agents to do the grunt work so I can take    ║
+ ║   credit." — The Job, Roughly                        ║
+ ╚══════════════════════════════════════════════════════╝
+       [ 🕹️ JOYSTICK ]    [ 🔴 A ]   [ 🟡 B ]   [ ⚔️ C ]
 ```
 
 <details>
-<summary>🐕 <b>Poke Shiro</b> <i>(click to interact)</i></summary>
+<summary>🐕 <b>BUTTON [A] : Talk to Shiro</b> <i>(Companion on duty)</i></summary>
 <br/>
 
-> *Shiro looks up and wags his tail.* 🐾
-> 
+> **Shiro** looks up from the base of the signal pole and wags his tail.  
+> *A small white pup from Kasukabe who took a job at the Kolkata crossing after one forgotten dinner too many.*  
+>
 > <details>
-> <summary>👉 <b>Poke Shiro again</b></summary>
+> <summary>🦴 <b>Offer Shiro a butter toast</b></summary>
 > <br/>
-> 
-> > *Shiro tilts his head. "...woof?"* 🤔
-> > 
+>
+> > *Shiro munches happily. **[LOYALTY +100]**.*  
+> > Shiro wags his tail and whispers a secret: *"The secret to building AI products? Watch what people quietly choose not to do."*
+> </details>
+>
+> <details>
+> <summary>👉 <b>Poke Shiro</b> <i>(1 / 4)</i></summary>
+> <br/>
+>
+> > *Shiro blinks and wags his tail once.*  
+> >
 > > <details>
-> > <summary>👉 <b>Poke Shiro a third time</b></summary>
+> > <summary>👉 <b>Poke Shiro again</b> <i>(2 / 4)</i></summary>
 > > <br/>
-> > 
-> > > *Shiro's ears start spinning.* 🌀
-> > > 
+> >
+> > > *Shiro tilts his head sideways. "...woof?"* 🤔  
+> > >
 > > > <details>
-> > > <summary>👉 <b>Poke Shiro 4th time (careful)</b></summary>
+> > > <summary>👉 <b>Poke Shiro a third time</b> <i>(3 / 4)</i></summary>
 > > > <br/>
-> > > 
-> > > > 💫 **Shiro is now dizzy!** 🐕‍🦺😵‍💫  
-> > > > *"Kasukabe was never this rowdy. I took a job in Kolkata to escape Shin-chan, not this. Go explore the projects below while I sit down."*
+> > >
+> > > > *Shiro's ears start spinning like little helicopter blades.* 🌀  
+> > > >
+> > > > <details>
+> > > > <summary>👉 <b>Poke Shiro 4th time (point of no return)</b> <i>(4 / 4)</i></summary>
+> > > > <br/>
+> > > >
+> > > > > 💫 **SHIRO IS NOW DIZZY!** 🐕‍🦺😵‍💫  
+> > > > > *"Kasukabe was never this rowdy. I took a job in Kolkata to escape Shin-chan, not this. Go scroll down and inspect the projects while my vision resets."*
+> > > > </details>
 > > > </details>
 > > </details>
 > </details>
 </details>
 
-> *“I get agents to do the grunt work so I can take credit.”*  
-> — *The job, roughly*
+<details>
+<summary>🚦 <b>BUTTON [B] : Override the Kolkata Signal</b> <i>(Field laws)</i></summary>
+<br/>
+
+> You step up to the cast-iron Kolkata signal box. Three aspects flicker:
+>
+> <details>
+> <summary>🔴 <b>Switch to RED (The Stop Rule)</b></summary>
+> <br/>
+>
+> > 🛑 **SIGNAL: RED**  
+> > Traffic on the crossing halts. Yellow ambassador taxis idle.  
+> > **Rule Invoked:** *"If an internal workflow isn't already working manually, DO NOT automate it with AI. Solve simply first."*  
+> > **Outcome:** 100 hours of wasted engineering saved.
+> </details>
+>
+> <details>
+> <summary>🟡 <b>Switch to AMBER (The Eval Rule)</b></summary>
+> <br/>
+>
+> > ⚠️ **SIGNAL: AMBER**  
+> > The amber lamp glows. Eval harnesses spin up across test batches.  
+> > **Rule Invoked:** *"Define what 'good output' means on paper with statistical pass/fail metrics before writing a single prompt."*  
+> > **Outcome:** Zero hallucinations leaked to production.
+> </details>
+>
+> <details>
+> <summary>🟢 <b>Switch to GREEN (The Ship Rule)</b></summary>
+> <br/>
+>
+> > 🟢 **SIGNAL: GREEN**  
+> > Traffic surges forward. All production systems nominal.  
+> > **Rule Invoked:** *"Let agents do the repetitive chores. Keep humans for taste, accountability, and the final 5%."*  
+> > **Outcome:** hoichoiOS deployed across 20+ teams; Legal OS scanning 3,500+ contracts.
+> </details>
+</details>
+
+<details>
+<summary>⚔️ <b>BUTTON [C] : Boss Battle — "The Unvetted Prompt"</b></summary>
+<br/>
+
+> ⚠️ **A WILD UNVETTED PROMPT APPEARS IN PRODUCTION!**  
+> *Boss: Hallucinator 9000 (HP: 500 / 500)*  
+> *"It claims it can replace three business departments using zero evaluations and an 8,000-token system prompt."*  
+>
+> <details>
+> <summary>📜 <b>Cast: "Statistical Eval Harness"</b></summary>
+> <br/>
+>
+> > 💥 **CRITICAL HIT! 9999 DMG.**  
+> > Your automated evaluation suite catches 42 hallucinated schema violations, enforces strict JSON structured outputs, and binds deterministic fallbacks.  
+> > **VICTORY!** 🏆 Production remains stable. Loot: +500 XP, 1x Clean Release.
+> </details>
+>
+> <details>
+> <summary>☕ <b>Cast: "Vibe-Check & Pray"</b></summary>
+> <br/>
+>
+> > ❌ **MISS!**  
+> > The vibe-check felt good for 3 test inputs at 2 AM, but shattered on the first live user query.  
+> > **LESSON:** Vibe-checks are not an eval. Write statistical assertions.
+> </details>
+</details>
 
 ---
 
