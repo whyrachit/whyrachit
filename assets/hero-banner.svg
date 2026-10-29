@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="100%">
+  <defs>
+    <pattern id="dotGrid" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#27272a" opacity="0.65" />
+    </pattern>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#e4e4e7" />
+      <stop offset="100%" stop-color="#a1a1aa" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes greenPulse {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 0.5; }
+    }
+    .pulse-green {
+      animation: greenPulse 2.4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="800" height="220" rx="12" fill="#09090b" stroke="#27272a" stroke-width="1.2" />
+  <rect width="800" height="220" rx="12" fill="url(#dotGrid)" />
+
+  <!-- Signal status badge top right -->
+  <g transform="translate(590, 24)">
+    <rect width="186" height="28" rx="14" fill="#18181b" stroke="#27272a" stroke-width="1" />
+    <circle cx="16" cy="14" r="4" fill="#ef4444" opacity="0.4" />
+    <circle cx="28" cy="14" r="4" fill="#f59e0b" opacity="0.4" />
+    <circle cx="40" cy="14" r="4" fill="#22c55e" filter="url(#glow)" class="pulse-green" />
+    <text x="54" y="18" fill="#a1a1aa" font-family="ui-monospace, 'Geist Mono', SFMono-Regular, monospace" font-size="10.5" letter-spacing="0.05em">
+      SIGNAL: <tspan fill="#22c55e" font-weight="600">ACTIVE</tspan>
+    </text>
+  </g>
+
+  <!-- Location tag top left -->
+  <text x="28" y="42" fill="#71717a" font-family="ui-monospace, 'Geist Mono', SFMono-Regular, monospace" font-size="11" letter-spacing="0.15em">
+    22.5726° N, 88.3639° E  //  KOLKATA CROSSING
+  </text>
+
+  <!-- Main Wordmark -->
+  <text x="26" y="128" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Geist', 'Inter', 'Helvetica Neue', sans-serif" font-size="64" font-weight="800" letter-spacing="-0.05em">
+    WHYRACHIT
+  </text>
+
+  <!-- Subtitle Line 1 -->
+  <text x="28" y="164" fill="#e4e4e7" font-family="ui-monospace, 'Geist Mono', SFMono-Regular, monospace" font-size="13" font-weight="600" letter-spacing="0.22em">
+    FOUNDER’S OFFICE  <tspan fill="#71717a">·</tspan>  AI PRODUCT MANAGER  <tspan fill="#71717a">·</tspan>  HOICHOI
+  </text>
+
+  <!-- Subtitle Line 2 -->
+  <text x="28" y="188" fill="#71717a" font-family="-apple-system, BlinkMacSystemFont, 'Newsreader', serif" font-style="italic" font-size="13.5">
+    “Watch what people actually do, especially what they quietly choose not to.”
+  </text>
+</svg>
