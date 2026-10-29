@@ -1,11 +1,14 @@
 <div align="center">
 
 ```
- _       ____  ____  __   ____  ___   ________  ____________
-| |     / / / / /\ \/ /  / __ \/   | / ____/ / / /  _/_  __/
-| | /| / / /_/ /  \  /  / /_/ / /| |/ /   / /_/ // /  / /   
-| |/ |/ / __  /   / /  / _, _/ ___ / /___/ __  // /  / /    
-|__/|__/_/ /_/   /_/  /_/ |_/_/  |_\____/_/ /_/___/ /_/     
+           ##.    ###.   @##. ##+     ### ###.    ### %#########      -####      =########   -##      ### -###############         
+           ###.   ###.   ###  ##*     ###  ###    ##. %##     ###     #####     -###    ###+ -##     +### -###    :##              
+            ##.  #####.  ##.  ##*     ###   ###  ##.  %##      ##    ### ###    ###      ### -##     *### -###    -##              
+            ###. ##.##. ###:  ###########    #####*   %##    =###    ##   ##   -##           -########### -###    -##              
+            *##.### ### ##:   ###########     ###+    %#########    ###   ###  :##           -########### -###    -##              
+             #####.  #####.   ###     ###     %##     %##     ###  -##########  ##+      ### -##     *### -###    -##              
+             #####.  #####    ###     ###     %##     %##      ##  ###     ###  ####    @### -##     -### -###    -##              
+              ###:    ###.    ###     ###     %##     %##      ## ###       ###   ########   -##     -### -##*    -##              
 ```
 
 ### 🚦 The crossing at [whyrachit.in](https://whyrachit.in)
@@ -13,14 +16,14 @@
 
 <br>
 
-<!-- REVOLVING ASCII SIGNAL & 360° GLOBE HERO -->
+<!-- REVOLVING 3D SKILLS GLOBE & KOLKATA SIGNAL WIREFRAME (ANIMATED LIVE) -->
 <p align="center">
   <a href="https://whyrachit.in">
-    <img src="assets/revolving-signal-globe.svg" alt="whyrachit.in - 3D Kolkata Crossing & Revolving ASCII Globe" width="860">
+    <img src="https://raw.githubusercontent.com/whyrachit/whyrachit/main/assets/revolving-skills-globe.gif" alt="whyrachit.in // THE CROSSING · LIVE 3D ORBIT HERO &amp; REVOLVING SKILLS GLOBE" width="840">
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=70&lines=AI+Product+Manager+%E2%80%A2+Founder's+Office+%40+hoichoi;%22I+get+agents+to+do+the+grunt+work+so+I+can+take+credit.%22;A+statistician+who+got+distracted+by+AI+%2B+a+habit+of+building+for+5+friends.;Colour+lives+at+the+crossing.+Everything+after+is+paper+and+ink.)](https://whyrachit.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=70&lines=AI+Product+Manager+%E2%80%A2+Founder's+Office+%40+hoichoi;%22I+get+agents+to+do+the+grunt+work+so+I+can+take+credit.%22;A+statistician+who+got+distracted+by+AI+%2B+a+habit+of+building+for+5+friends.;Colour+lives+at+the+crossing.+Everything+after+is+paper+and+ink.)](https://whyrachit.in)
 
 <br>
 
@@ -43,7 +46,7 @@
 │  NAME         : Rachit Yadav (@whyrachit)                                   │
 │  ROLE         : AI Product Manager · Founder's Office @ hoichoi             │
 │  BASED IN     : Kolkata, India (22.5726° N, 88.3639° E)                     │
-│  BACKGROUND   : B.Sc. Statistics (Hons.) · St. Xavier's College             │
+│  STUDIED      : B.Sc. Statistics (Hons.) · St. Xavier's College, Kolkata    │
 │  THE HABIT    : Watch what people actually do, especially what they quietly │
 │                 choose not to — and hand the slow repetitive hours to AI.   │
 │  THE CARDINAL : Let the agent do the grunt work, keep people for judgment,  │
@@ -53,7 +56,7 @@
 
 ---
 
-## 📐 THE DESIGN MANIFESTO & PHILOSOPHY
+## 📐 THE CROSSING MANIFESTO & DESIGN PHILOSOPHY
 *(From the Colophon & System Architecture of [whyrachit.in](https://whyrachit.in/about#colophon))*
 
 ```
@@ -97,6 +100,16 @@ REQUEST
 // Most AI products fail not because the underlying LLM is bad,
 // but because success was never mathematically defined before building started.
 ```
+
+---
+
+## ⚡ REAL-TIME CONTRIBUTION HEATMAP
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/whyrachit/whyrachit/main/assets/contribution-graph.svg" alt="whyrachit Real Contribution Calendar" width="860">
+</p>
+
+> *Synchronized automatically from private enterprise repositories, work orgs, and local git caches using [github-syncer](https://github.com/whyrachit/github-syncer).*
 
 ---
 
@@ -257,12 +270,6 @@ const rachit = {
 ---
 
 <div align="center">
-
-### 🐍 GitHub Contribution Grid
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ```
 when you ask "why rachit?" — the answer isn't a single line.
