@@ -8,91 +8,100 @@
 |__/|__/_/ /_/   /_/  /_/ |_/_/  |_\____/_/ /_/___/ /_/     
 ```
 
-</div>
+### 🚦 The crossing at [whyrachit.in](https://whyrachit.in)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=AI+Product+Manager+%E2%80%A2+Founder's+Office+%40+hoichoi;%22I+get+agents+to+do+the+grunt+work+so+I+can+take+credit.%22;A+statistician+who+got+distracted+by+AI+%2B+a+habit+of+building+for+5+friends.;Tap+anything.+Some+of+it+talks+back.)](https://whyrachit.in)
 
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%22well+because+'whynotrachit'+sounded+too+desperate.%22;curiosity+%2B+creativity+%2B+the+drive+to+build+smarter.;AI+PM+%E2%80%A2+Agentic+Systems+%E2%80%A2+Product+%26+Business+Analysis)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-whyrachit-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whyrachit/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-whyrachit.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://whyrachit.vercel.app)&nbsp;
-[![Email](https://img.shields.io/badge/Email-rachityadav.ml%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rachityadav.ml@gmail.com)&nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=whyrachit&style=flat-square&color=7c3aed&label=profile+views)](https://github.com/whyrachit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-whyrachit.in-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](https://whyrachit.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-whyrachit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/whyrachit)&nbsp;
+[![X / Twitter](https://img.shields.io/badge/X-@waitedforagi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waitedforagi)&nbsp;
+[![Email](https://img.shields.io/badge/Email-whyrachit@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whyrachit@gmail.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-PDF-4F46E5?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EyaapxXUmE5pg--U9NEP9eaPqoeRopPS/view?usp=sharing)
 
 </div>
 
 ---
 
+### 🐕 Shiro's TL;DR
+
+> *"A small white dog from Kasukabe who took a job in Kolkata after one forgotten dinner too many. Host of the crossing, runs the inbox. Poke him four times quickly and he gets dizzy."*
+
 ```
-// THE ORIGIN STORY
-
-The name comes from the real question people ask: "Why Rachit?"
-Why hire me, collaborate with me, trust me?
-
-The answer is literally right here — across every project, every repo,
-every workflow I've built. That's why the portfolio, LinkedIn, and GitHub
-all live under one name: whyrachit.
-
-I sit at the intersection of data, technology, and business —
-translating raw information into decisions, models, and solutions
-that drive measurable impact.
+┌────────────────────────────────────────────────────────────────────────┐
+│  NAME         : Rachit Yadav (@whyrachit)                              │
+│  ROLE         : AI Product Manager · Founder's Office @ hoichoi        │
+│  BASED IN     : Kolkata, India                                         │
+│  BACKGROUND   : B.Sc. Statistics (Hons.) · St. Xavier's College        │
+│  THE HABIT    : Watch what people actually do, especially what they    │
+│                 quietly choose not to — and hand the grunt work to AI. │
+│  PHILOSOPHY   : Let the agent do the grunt work, keep humans for       │
+│                 judgment, and make it feel like it was always simple.  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⚙️ STACK
+## 🚀 SHIPPED & LATE-NIGHT EXPERIMENTS
+
+> *Honestly, I usually build these for like 5 of my friends thinking "surely nobody else will ever need this," only to realize way more people actually end up needing them.*
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**🧠 AI & Agentic**
+### 💊 [mydawAI](https://whyrachit.in/projects/mydawai) `Open Beta`
+**Health & Agentic System** &nbsp;·&nbsp; *Kept by **chintu the koala** 🐨*  
+*(Sleeps 20 hours a day and still never forgets a dose)*
 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Sarvam AI](https://img.shields.io/badge/Sarvam_AI_105B-FF4F00?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6d28d9?style=flat-square&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+Medicine reminders for the whole family on the WhatsApp they already have. One button: **Taken**.
+- Zero new apps to install; turns prescription photos or voice notes into clean schedules.
+- Multi-agent escalation: checks in on missed doses and alerts caretakers only if unanswered.
+- Privacy-first encryption for prescriptions, medicine schedules, and health notes.
 
-</td>
-<td valign="top" width="33%">
-
-**💻 Data & Dev**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+`WhatsApp Native` · `Zero-Snooze UX` · `Family Refills`
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**🛠️ Agentic Coding**
+### 🍹 [tanhAI](https://whyrachit.in/projects/tanhai) `Active`
+**Food & Mixology Agent** &nbsp;·&nbsp; *Kept by **Jaggu the monkey** 🐒*  
+*(Speaks 11+ languages, most of them about bananas)*
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+Conversational food & craving agent that figures out what you *actually* want and turns saved Instagram reels into real orders.
+- Collapsed 3-app switching (discover → check stock → order) into one seamless session.
+- Powered by **Sarvam AI 30B / 105B** for Indic NLU + **Swiggy MCP** for live inventory, cart building, and checkout handoff.
 
-**📦 Product**
+`Sarvam AI 105B` · `Swiggy MCP` · `~65% ↓ time-to-order`
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [sunAI](https://whyrachit.in/projects/sunai) `Shipped`
+**Voice & Productivity Engine** &nbsp;·&nbsp; *Kept by **Hoot the owl** 🦉*  
+*(Up all night listening. Repeats code correctly pronounced)*
+
+Text-to-speech localization engine automating regional voiceovers while keeping technical code jargon intact.
+- Custom phonetic dictionary layer preventing models from butchering syntax like `async/await`, `SQL`, or `REST API`.
+- FastAPI + Sarvam speech stack for multi-lingual developer documentation.
+
+`Voice AI` · `Indic Speech` · `Phonetic Preservation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 [rihAI](https://whyrachit.in/projects/rihai) `Shipped`
+**Music & Agentic Curation** &nbsp;·&nbsp; *Kept by **Lofi the cat** 🐱*  
+*(Moody by default. Has a playlist for every one of them)*
+
+Mood-driven music curator: write how your day felt, get a Spotify playlist in ~3 seconds.
+- Multi-lingual sentiment parsing across Bengali, Hindi, and English.
+- Evaluator agent that audits song lyrics to drop tracks whose lyrical sentiment clashes with your mood.
+
+`Spotify API` · `Streamlit` · `Lyric Sentiment Audit`
 
 </td>
 </tr>
@@ -100,93 +109,75 @@ that drive measurable impact.
 
 ---
 
-## 🚀 SHIPPED
+## 🏢 WHAT I ACTUALLY DO (DAY JOB)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🎬 **Senior Associate · Founder’s Office, hoichoi** (2026 – Present)
+*Raising AI adoption across 20+ departments so everyday workflows get faster and simpler.*
+- **AI Product Manager across 20+ departments**: Audited company-wide use-case registries to separate what's build-ready from what's blocked on data or undocumented rules.
+- **hoichoiOS**: Developing an internal AI assistant unifying knowledge and workflows across all 20+ departments.
+- **Legal OS**: Built end-to-end legal intelligence platform featuring RAG over 3,500+ contracts and full contract lifecycle management (CLM).
+- **Content Intelligence MVP**: Authored PRD and led MVP rollout for video embeddings and scene intelligence with external vendor teams.
+- **Voice AI & Founder Special Projects**: Evaluating Indic voice models, automating leadership reporting, and delivering fast-turnaround strategic initiatives.
 
-### 🎵 SargamAI
-**AI Playlist Generator**&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/whyrachit/SargamAI)&nbsp;[![Post](https://img.shields.io/badge/Post-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/whyrachit_aiagents-spotify-playlist-ugcPost-7303371882970456065-LBfT)
-
-Spotify's graph is English-first. Multilingual listeners get generic results. Built a mood-aware playlist engine with live Spotify API, custom ranking layer, and 50+ prompt variants across 5+ languages.
-
-```
-mood input
-→ live Spotify query generation
-→ custom ranking layer
-→ ranked playlist output
-```
-
-`30 users` · `200+ playlists` · `~35% ↑ satisfaction`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍹 tanhAI
-**Conversational Mixology Agent**&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/whyrachit/tanhAI)&nbsp;[![Post](https://img.shields.io/badge/Post-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/whyrachit_tanhai-swiggy-sarvamai-ugcPost-7459939151652630528-TMZe)
-
-3-app switching problem (discover → check stock → order) collapsed into one session. Sarvam AI 105B for Indian language NLU, Swiggy MCP for live inventory and order handoff.
-
-```
-mood input
-→ Sarvam AI 105B NLU
-→ Swiggy MCP (inventory + order)
-→ checkout handoff
-```
-
-`~65% ↓ time-to-order` · `15+ sessions` · `0 handoff failures`
-
-</td>
-</tr>
-</table>
+### 🏗️ **Associate AI Product Manager · 5D VDC Services** (2025 – 2026)
+*Enterprise workflow automation and SaaS integrations across construction-tech.*
+- **etiS 6-product suite**: 0→1 scoping, market analysis, and enterprise integrations (Autodesk, Zoho); onboarded 2 enterprise clients and 200+ users in 3 months.
+- **Autodesk–WhatsApp Multi-Agent System**: Intent-based routing for document retrieval and issue tracking, cutting retrieval time ~70% for 600+ daily users.
+- **Nudge Alert System**: 4-tier alert system that eliminated 40K redundant submissions and reduced process errors by 20%.
+- **Tally ERP Pipeline**: Ingested 150K+ monthly ledger entries, saving 30+ analyst hrs/week and hitting 96.4% inventory reconciliation accuracy.
 
 ---
 
-## 🤖 AGENTIC WORKFLOW SYSTEMS
+## 🔬 CASE STUDIES (3 AM RABBIT HOLES)
 
-```python
-# what i've built and shipped in production
+> *Written at 3 AM fueled by dynamic code issues, existential questions, and an unhealthy amount of coffee.*
 
-production_workflows = {
-    "documentation_automation"  : ["Claude Code", "Google Antigravity", "structured prompt chains"],
-    "excel_data_entry_pipelines": ["Python + OpenPyXL", "LLM extraction", "validation layer"],
-    "audit_automation"          : ["multi-step agents", "diff detection", "anomaly flagging"],
-    "multi_agent_orchestration" : ["Agno", "AutoGen", "LangGraph", "intent-based routing"],
-    "mcp_integrations"          : ["Swiggy MCP", "Autodesk MCP", "WhatsApp Business API"],
-}
-
-prompt_library  = "50+ reusable, versioned prompts across real production use cases"
-models_in_use   = ["Claude 3.5/4", "GPT-4o", "Gemini 2.0", "Sarvam AI 105B"]
-agentic_editors = ["Claude Code", "Claude Desktop", "Google Antigravity"]
+```
+├── 🐧 Deterministic Inference for LLMs ── [Kept by Xerox the penguin]
+│   └── Floating-point non-determinism in parallel GPU architectures,
+│       mathematical PPO variance in RLHF updates, and batch invariance engineering.
+│
+└── 🦥 Abandonment Issues ──────────────── [Kept by Dheere the sloth]
+    └── "Started this survey in 2019. Still on question four, and very much not abandoning it."
+    └── Statistical diagnosis of dropout patterns in forms using regression models & NLP.
 ```
 
 ---
 
-## 🧩 HOW I SCOPE AI FEATURES
+## ⚙️ TOOLBOX & CRAFT
 
+```yaml
+AI & Agents:
+  daily_drivers: [Claude Desktop, Claude Code, Google Antigravity, Gemini 2.0 Flash]
+  frameworks:    [LangChain, LangGraph, Agno, AutoGen]
+  protocols:     [MCP (Model Context Protocol), WhatsApp Business API]
+  models:        [Claude 3.7 / 3.5 Sonnet, GPT-4o, Sarvam AI 105B / 30B / Saaras]
+
+Data & Math (The Statistics Degree):
+  core:          [Python, SQL, Pandas, NumPy, scikit-learn, PyTorch, R]
+  foundations:   [Large Sample Theory, Sampling & Inference, Linear Models, Attrition Modeling]
+  pipelines:     [Tally ERP automation, ETL pipelines, Vector DBs, RAG evaluation]
+
+Product & Design:
+  execution:     [0→1 Scoping, PRDs, Vendor Gap Analysis, Metrics & Nudge systems]
+  design:        [Typography, ASCII plates, Blender 3D, three.js, Next.js, FastAPI]
 ```
-// the question i ask before every AI feature
 
-REQUEST
-  │
-  ├─ Is this actually an AI problem?
-  │       └─ no  → solve simply. ship faster.
-  │       └─ yes ↓
-  │
-  ├─ What does good output look like — exactly?
-  │       └─ define eval criteria before touching a prompt
-  │
-  ├─ What's the acceptable failure mode?
-  │       └─ instrument for it before it ships
-  │
-  └─ Build · Instrument · Measure · Iterate
+---
 
-// most AI products fail not because the model is bad
-// but because success was never defined before building started
-```
+## 🐾 RESIDENTS OF WHYRACHIT.IN
+
+Every product and file on the portfolio has its own keeper watching your cursor:
+
+| Resident | Looks After | Quirks |
+| :--- | :--- | :--- |
+| 🐕 **Shiro** | The Crossing (`whyrachit.in`) | A Kasukabe pup who took a Kolkata job. Poke him 4x and he gets dizzy. |
+| 🐨 **chintu** | **mydawAI** | Sleeps 20 hrs/day; never misses a dose. No snooze button allowed. |
+| 🐒 **Jaggu** | **tanhAI** | Speaks 11+ languages, negotiates group food orders & Swiggy carts. |
+| 🦉 **Hoot** | **sunAI** | Up all night listening. Pronounces technical jargon without flinching. |
+| 🐱 **Lofi** | **rihAI** | Moody by default. Has a Spotify playlist for every exact feeling. |
+| 🐧 **Xerox** | **Deterministic LLMs** | Looks exactly like every other penguin. Prefers it that way. |
+| 🦥 **Dheere** | **Abandonment Issues** | Still filling out the 2019 survey. Refuses to abandon it. |
 
 ---
 
@@ -194,45 +185,27 @@ REQUEST
 
 ```javascript
 const rachit = {
-  currentlyObsessedWith : "agentic coding workflows + MCP integrations",
-  askMeAbout            : ["AI product strategy", "LLM pipelines", "why your PRD is wrong"],
+  currentlyObsessedWith : "agentic workflows + MCP protocols + lightweight local tools",
+  quote                 : "I get agents to do the grunt work so I can take credit.",
+  askMeAbout            : ["AI product strategy", "WhatsApp agents", "why your PRD is wrong"],
   funFact               : "named my GitHub after the question I make every product answer",
-  canNotLiveWithout     : ["SQL", "a good prompt chain", "the right extraction ratio"],
-  superpower            : "translating ML team chaos into a roadmap everyone understands",
-  hiddenTalent          : "turning a vague business problem into a structured brief in < 10 mins",
-
-  // non-technical skills that are definitely on my resume somewhere
-  caffeineTolerance     : "dangerously calibrated — occupational hazard of shipping things",
+  canNotLiveWithout     : ["SQL", "a tight prompt chain", "late-night chai / black coffee"],
+  superpower            : "translating ML engineering chaos into a roadmap everyone understands",
   cocktailPhilosophy    : "great drinks and great products share one thing: balance > ingredients",
 };
 ```
 
 ---
 
-## 📡 CURRENTLY RUNNING
-
-![Currently Learning](https://img.shields.io/badge/Learning-MCP_Protocol_Internals-7c3aed?style=flat-square&logoColor=white)
-![Building](https://img.shields.io/badge/Building-Agentic_Workflows-6d28d9?style=flat-square&logoColor=white)
-![Reading](https://img.shields.io/badge/Reading-AI_PM_case_studies-4f46e5?style=flat-square&logoColor=white)
-![Open To](https://img.shields.io/badge/Open_To-AI_PM_%26_Product_Analyst_Roles-059669?style=flat-square&logoColor=white)
-
----
-
 <div align="center">
+
+### 🐍 GitHub Contribution Grid
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
 
 ---
 
 ```
-// WHY RACHIT?
-
 when you ask "why rachit?" — the answer isn't a single line.
 it's curiosity that questions everything before building it.
 creativity that finds the angle no one else considered.
@@ -241,18 +214,6 @@ and the drive to keep shipping smarter, not just faster.
 the name is a question. the work is the answer.
 ```
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-```
- _       ____  ____  __   ____  ___   ________  ____________
-| |     / / / / /\ \/ /  / __ \/   | / ____/ / / /  _/_  __/
-| | /| / / /_/ /  \  /  / /_/ / /| |/ /   / /_/ // /  / /   
-| |/ |/ / __  /   / /  / _, _/ ___ / /___/ __  // /  / /    
-|__/|__/_/ /_/   /_/  /_/ |_/_/  |_\____/_/ /_/___/ /_/     
-```
-
-[whyrachit.vercel.app](https://whyrachit.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/whyrachit/) &nbsp;·&nbsp; [rachityadav.ml@gmail.com](mailto:rachityadav.ml@gmail.com)
+**[whyrachit.in](https://whyrachit.in)** &nbsp;·&nbsp; **[@waitedforagi](https://x.com/waitedforagi)** &nbsp;·&nbsp; **[whyrachit@gmail.com](mailto:whyrachit@gmail.com)**
 
 </div>
